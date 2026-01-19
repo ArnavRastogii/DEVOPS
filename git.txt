@@ -1,0 +1,28 @@
+  ls
+    2  git --version
+    3  git config --global core.editor "code --wait'
+    4  git config --global core.editor "code --wait"
+    5  git config --global user.name "Arnav"
+    6  git config --global user.email "arnavrastogi192@gmail.com"
+    7  git config --list
+    8  git confiig user.name
+    9  git config user.name
+   10  mkdir project
+   11  cd  Frontend
+   12  cd project
+   13  cd arnav
+   14  cd devops
+   15  cd devops.html
+   16  cd devv.html
+   17  cd dev.html
+   18  cd dev.html
+   19  ls
+   20  ls l
+   21  ls -l
+   22  rm -dev.html
+   23  rm dev.html
+   24  git remote add origin https://github.com/ArnavRastogii/DEVOPS.git
+   25  git remote --v
+   26  git remote set-url origin https://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@github.com//ArnavRastogii/DEVOPS.git
+   27  git push origin master
+   28  history
