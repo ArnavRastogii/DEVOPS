@@ -23,6 +23,5 @@
    23  rm dev.html
    24  git remote add origin https://github.com/ArnavRastogii/DEVOPS.git
    25  git remote --v
-   26  git remote set-url origin https://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@github.com//ArnavRastogii/DEVOPS.git
    27  git push origin master
    28  history
